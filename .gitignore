@@ -1,0 +1,10 @@
+# Ignore macOS .DS_Store
+.DS_Store
+
+# Ignore go generated header
+libgoweb_plugin.h
+
+# Ignore compiled artifacts
+*.dll
+*.a
+*.dylib
